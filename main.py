@@ -5,6 +5,8 @@ sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'certified_copy_reade
 from dotenv import load_dotenv
 from pdf_reader import PDFReader
 from text_processor import TextProcessor
+import certified_copy_reader.utilities as utilities
+
 
 load_dotenv()
 pdf_path = os.getenv('PDF_PATH')
