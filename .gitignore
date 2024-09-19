@@ -1,2 +1,6 @@
-code
-big_data_tohon
+/code
+/big_data_tohon
+/.virtual_documents
+/certified_copy_reader/.ipynb_checkpoints
+/certified_copy_reader/__pycache__
+/.env
